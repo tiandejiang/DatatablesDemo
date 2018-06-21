@@ -63,7 +63,7 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/dubbo-consumer2/target/dubbo-consumer2/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="D:\ideaWorkSpace\DatatablesDemo\dubbo-consumer2\target/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="dubbo-consumer2/web/Web" />
     </root>
